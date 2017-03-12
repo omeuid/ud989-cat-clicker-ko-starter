@@ -1,4 +1,4 @@
-ud989-cat-clicker-ko-starter
+Cat clicker with knockoutjs
 ============================
 
-ud989-cat-clicker-ko-starter
+Cat clicker web application from the 'JavaScript Design Patterns' udacity course.
